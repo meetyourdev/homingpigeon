@@ -16,3 +16,5 @@ BOT_NAME=bot_name_here
 npm install
 node index.js
 ```
+
+### Once the script has started, kindly send a message to the telegram bot in order to receive messages.
